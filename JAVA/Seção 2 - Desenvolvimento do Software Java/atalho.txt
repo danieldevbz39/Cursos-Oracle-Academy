@@ -1,0 +1,9 @@
+talho de formatação automática NetBeans:          Alt + Shift + F           = Isso vai alinhar (indentar) todo o código automaticamente, deixando-o legível.
+
+
+Palavra,Tradução Livre,Função
+new,	 	"""Novo""" 	,Cria o objeto na memória (Transforma o papel em realidade).
+public,		"""Público"""	,Deixa todo mundo ver e mexer.
+void0,		"""Vazio"""	,Faz uma ação e não devolve troco (sem retorno de dados).
+
+

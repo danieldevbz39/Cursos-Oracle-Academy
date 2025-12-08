@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Text01",
+            "request": "launch",
+            "mainClass": "Text01",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "HelloMain",
+            "request": "launch",
+            "mainClass": "mysecondproject.HelloMain",
+            "projectName": "MySecondProject"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld(1)",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "pratic- HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "HelloMain(1)",
+            "request": "launch",
+            "mainClass": "mysecondproject.HelloMain",
+            "projectName": "pratic-MySecondProject"
+        }
+    ]
+}
